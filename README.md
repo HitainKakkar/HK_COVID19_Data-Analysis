@@ -1,0 +1,2 @@
+# HK_COVID19_Data-Analysis
+This project helps us calculate and visualize the relationship between the spread of Corona virus in a country and how happy people are living in that country by merging two different datasets . The two datasets used includes First, Covid-19 dataset published by Jonh Hopkins university which cantains datasets related to cumulative number of confirmed cases countries per day and second, a dataset related to world happiness report, an annual publication by the United Nations.
